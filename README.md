@@ -3,7 +3,7 @@
 This repository contains my projects in **Python**, ranging from simple programs to more advanced applications. Here I document everything I am learning and developing.
 
 ## Current Projects
-- **Basic calculator** – Basic Python calculator with fundamental operations.
+- **Basic calculator** – Basic Python calculator with fundamental operations. (V.1.1.2)
 
 ## Upcoming Projects
 - **Scientific Calculator** – Scientific calculator with trigonometric and logarithmic functions.
