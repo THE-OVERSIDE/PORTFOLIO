@@ -6,6 +6,7 @@ This repository contains my projects in **Python**, ranging from simple programs
 - **Basic calculator** – Basic Python calculator with fundamental operations. (V.1.1.2)
 
 ## Upcoming Projects
+- **Basic task manager** - Basic task manager with Pandas.
 - **Scientific Calculator** – Scientific calculator with trigonometric and logarithmic functions.
 - **Temperature Logger (simulation)** – Program that simulates sensor readings and records data in files.
 
